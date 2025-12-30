@@ -30,10 +30,12 @@ For word embeddings refer to the following folders;
 - svm_word_embeddings
 - mlp_word_embeddings
 - logistic-word-embeddings
+  
 For use of DistilBERT embeddings with ML models refer to the following
 - svm_distil_bert_embeddings
 - mlp_distil_bert_embeddings
 - logistic_distil_bert_embeddings
+  
 For the use of DistilBERT transfer learning refer to the following;
 - distilbert_uncased
 - cleaned_data_distilbert_base_uncased (DistilBERT with data normalisation)
