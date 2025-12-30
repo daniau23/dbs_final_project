@@ -22,6 +22,7 @@ This contains the LDA model which contains the following
 ### **SUPERVISED_MODELS**
 This contains the analytics done on the filtered final_filtered_annotated_reviews.csv file before running the supervised models. 
 Model Metrics are saved in the model_metrics folder as an excel file.
+
 For TF-IDF text representation refer to the following folders;
 - mlp
 - svm
