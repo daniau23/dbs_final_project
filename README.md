@@ -32,7 +32,7 @@ For word embeddings refer to the following folders;
 - mlp_word_embeddings
 - logistic-word-embeddings
   
-For use of DistilBERT embeddings with ML models refer to the following
+For use of DistilBERT embeddings with ML models refer to the following;
 - svm_distil_bert_embeddings
 - mlp_distil_bert_embeddings
 - logistic_distil_bert_embeddings
