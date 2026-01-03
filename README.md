@@ -2,6 +2,7 @@
 
 ## **Abstract**
 In today's society, e-commerce has led the way in the purchase and sale of goods. The reputation of e-commerce platforms depends on the ratings and reviews given by customers. This research presents a topic modelling approach for data annotation using LDA. Furthermore, a comprehensive evaluation of supervised models was performed using various text representation techniques. TF-IDF based models showed good baseline performance, with SVM, MLP and LR achieving AUC/Accuracy scores of 0.91/0.78, 0.93/0.71 & 0.91/0.76 respectively. By leveraging Word2Vec embeddings; Glove-wiki-gigaword-300, MLP outperformed BiLSTM and transfer learning approach with DistilBERT, having AUC/Accuracy scores of 0.97/0.89, whereas BiLSTM and DistilBERT with Data Normalisation approach had AUC/Accuracy scores of 0.97/0.88 and 0.95/0.83 respectively. Moreover, the use of DistilBERT embeddings with SVM, LR & MLP, led to a significant boost in performance when compared to the use of TF-IDF which shows the importance of contextual meaning of words.
+
 Keywords - NLP, Text Mining, Topic Modelling, Sentiment Analysis, Text Classification, Transfer Learning, Customer Reviews, E-Commerce. 
 
 ## **How the Project is Structured**
