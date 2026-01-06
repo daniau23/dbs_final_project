@@ -27,6 +27,7 @@ For TF-IDF text representation refer to the following folders;
 - mlp
 - svm
 - glm_logistic
+  
 For word embeddings refer to the following folders;
 - svm_word_embeddings
 - mlp_word_embeddings
